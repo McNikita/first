@@ -7,7 +7,10 @@ h6{
 h2{
     background-color: white;
     color: black;
-    width: 105px;
+    width: 150px;
+    font-size: 25px;
+    text-align: center;
+margin: auto;
     /* display: inline; */
 }
 img{
